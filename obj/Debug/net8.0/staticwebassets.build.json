@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "eD00IZ7Q2V5j5P/a0BiinshJyBUmUCKAmB108oevOII=",
+  "Source": "HealthCareApp",
+  "BasePath": "_content/HealthCareApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HealthCareApp\\wwwroot",
+      "Source": "HealthCareApp",
+      "ContentRoot": "C:\\Ruchi_College\\Conestoga\\sem2\\SoftwareQualityApplicationLab\\Project_HealthCareApp\\HealthCareApp\\wwwroot\\",
+      "BasePath": "_content/HealthCareApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
